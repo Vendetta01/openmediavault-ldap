@@ -4,5 +4,5 @@ data:
   path: "services.ldap"
   text: _("LDAP Directory Service")
   position: 5
-  icon: "mdi:mdi-account-card-details"
+  icon: "mdi:folder-account"
   url: "/services/ldap"
